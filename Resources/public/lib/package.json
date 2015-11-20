@@ -1,0 +1,22 @@
+{
+    "name": "admin",
+    "version": "0.1.0",
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-angular-translate": "",
+        "grunt-contrib-watch": "",
+        "grunt-docular": "",
+        "grunt-html2js": "0.2.9",
+        "grunt-newer": "",
+        "grunt-sass-globbing": "1.0.3",
+        "grunt-translate-compile": "",
+        "grunt-webfont": "~0.4.8"
+    },
+    "description": "WBC modules",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "BSD"
+}
