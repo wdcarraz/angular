@@ -1,0 +1,30 @@
+{
+  "name" : "wdcarraz/angular",
+  "description" : "Angular node module and bower packages",
+  "type" : "symfony-bundle",
+  "authors" : [{
+	"name" : "Dan Carraz",
+	"email" : "carraz@wcentric.com"
+  }],
+  "keywords" : [
+	"angular"
+  ],
+  "license" : [
+	"MIT"
+  ],
+  "require" : {
+  },
+  "autoload" : {
+	"psr-0" : {
+	  "WbcAngularBundle" : ""
+	}
+  },
+  "target-dir" : "WbcAngularBundle",
+  "repositories" : [{
+  }],
+  "extra" : {
+	"branch-alias" : {
+	  "dev-master" : "dev"
+	}
+  }
+}
